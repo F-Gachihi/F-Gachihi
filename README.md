@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @F-Gachihi
+- 👋 Hi, I’m Faith Gachihi
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning SQL by self-learning
 - 💞️ I’m looking to collaborate on any beginner projects that require SQL knowledge
